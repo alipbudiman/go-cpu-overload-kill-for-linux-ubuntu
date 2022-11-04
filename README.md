@@ -12,7 +12,7 @@ this script compatible with go version `1.15.2` , running on server `LINUX Ubunt
    
 >> example: `bash start.sh alip`
 
-3.program will created new screen of server. you can show in console
+3. program will created new screen of server. you can show in console
 
    
 4. open screen to use the program, to see detail cpu or set interval of checking (for the overload kill process is running automatically)
